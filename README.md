@@ -17,11 +17,13 @@ A complete wireless simulation to simulate signal strength, channel interference
             <!-- First Section -->
             <td width="50%" align="center">
                 <h2>Section 1</h2>
+                <img alt="picture 1" width="600px" src="https://github.com/naufalrahim99-hub/Wireless-Network-Simulation/blob/ca062aa7330a5ab83e0b3bbc068b85a864b45290/image%201.png" />
                 <p>This is the content of the first section.</p>
             </td>
             <!-- Second Section -->
             <td width="50%" align="center">
                 <h2>Section 2</h2>
+                <img alt="picture 1" width="600px" src="https://github.com/naufalrahim99-hub/Wireless-Network-Simulation/blob/ca062aa7330a5ab83e0b3bbc068b85a864b45290/image%201.png" />
                 <p>This is the content of the second section.</p>
             </td>
         </tr>
